@@ -21,6 +21,11 @@ It provides support for arrays, matrices, and many mathematical operations.
 - day4_random.py – Random numbers in NumPy
 - day5_statistics.py – Mean, median, standard deviation
 
+## Mini Project
+
+### Tic Tac Toe using NumPy
+As a small project after learning NumPy, I built a simple Tic Tac Toe game that uses NumPy arrays to represent the game board and check winning conditions.
+
 ## How to Run the Code
 1. Install NumPy (pip install numpy)
 2. run any file using python filename.py
