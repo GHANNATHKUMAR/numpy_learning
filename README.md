@@ -31,3 +31,4 @@ As a small project after learning NumPy, I built a simple Tic Tac Toe game that 
 2. run any file using python filename.py
 3. ##Author
 4. Learning Numpy as part of my python and Data Science journey
+5. And we can deploy this project on streamlit ui..
